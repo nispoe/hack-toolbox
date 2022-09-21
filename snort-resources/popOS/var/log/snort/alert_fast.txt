@@ -1,0 +1,35 @@
+09/20-22:07:38.605475 [**] [1:382:11] "PROTOCOL-ICMP PING Windows" [**] [Classification: Misc activity] [Priority: 3] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:38.605475 [**] [1:1000001:1] "ICMP connection test" [**] [Priority: 0] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:38.605475 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:38.605511 [**] [1:1000001:1] "ICMP connection test" [**] [Priority: 0] [AppID: ICMP] {ICMP} 10.0.0.22 -> 10.0.0.24
+09/20-22:07:38.605511 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] [AppID: ICMP] {ICMP} 10.0.0.22 -> 10.0.0.24
+09/20-22:07:39.425022 [**] [1:382:11] "PROTOCOL-ICMP PING Windows" [**] [Classification: Misc activity] [Priority: 3] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:39.425022 [**] [1:1000001:1] "ICMP connection test" [**] [Priority: 0] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:39.425022 [**] [1:29456:3] "PROTOCOL-ICMP Unusual PING detected" [**] [Classification: Information Leak] [Priority: 2] [AppID: ICMP] {ICMP} 10.0.0.24 -> 10.0.0.22
+09/20-22:07:39.425052 [**] [1:1000001:1] "ICMP connection test" [**] [Priority: 0] [AppID: ICMP] {ICMP} 10.0.0.22 -> 10.0.0.24
+09/20-22:07:39.425052 [**] [1:408:8] "PROTOCOL-ICMP Echo Reply" [**] [Classification: Misc activity] [Priority: 3] [AppID: ICMP] {ICMP} 10.0.0.22 -> 10.0.0.24
+09/21-03:22:20.975143 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::38bc:7df5:9548:95b9:5353 -> ff02::fb:5353
+09/21-03:22:20.975159 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::38bc:7df5:9548:95b9:5353 -> ff02::fb:5353
+09/21-03:22:20.975160 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::38bc:7df5:9548:95b9:5353 -> ff02::fb:5353
+09/21-03:22:20.975162 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::38bc:7df5:9548:95b9:5353 -> ff02::fb:5353
+09/21-03:22:20.975202 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::f6ce:46ff:fe49:b6f6:5353 -> ff02::fb:5353
+09/21-03:22:30.393031 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} 10.0.0.9:5353 -> 224.0.0.251:5353
+09/21-03:22:30.393038 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:30.393041 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:30.393042 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:30.393063 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} 10.0.0.9:5353 -> 224.0.0.251:5353
+09/21-03:22:30.393069 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} 10.0.0.9:5353 -> 224.0.0.251:5353
+09/21-03:22:31.213544 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:31.213553 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:31.213554 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:31.213555 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:31.213556 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:31.620548 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:32.030120 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:33.259403 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:34.487286 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:35.716634 [**] [1:1000003:0] "UDP" [**] [Priority: 0] [AppID: MDNS] {UDP} fe80::486:3b6c:3c81:2f86:5353 -> ff02::fb:5353
+09/21-03:22:40.222330 [**] [1:1000002:0] "TCP" [**] [Priority: 0] {TCP} 10.0.0.24:63515 -> 10.0.0.22:22
+09/21-03:22:40.222360 [**] [1:1000002:0] "TCP" [**] [Priority: 0] {TCP} 10.0.0.24:63515 -> 10.0.0.22:22
+09/21-03:22:40.222376 [**] [1:1000002:0] "TCP" [**] [Priority: 0] {TCP} 10.0.0.22:22 -> 10.0.0.24:63515
+09/21-03:22:40.223059 [**] [1:1000002:0] "TCP" [**] [Priority: 0] {TCP} 10.0.0.22:22 -> 10.0.0.24:63515
